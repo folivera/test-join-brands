@@ -12,7 +12,7 @@
         <div class="form-group">
             <label for="password">Password:</label>
             <input type="password" class="form-control" id="password" name="password">
-            <small><a href="/password/reset">¿Olvidó su contraseña?</a></small>
+            <small><a href="/password/reset">Lost your password?</a></small>
         </div>
 
         <div class="form-group">
